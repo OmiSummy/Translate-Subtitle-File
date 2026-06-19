@@ -208,7 +208,7 @@ pyTranscriber 就是给 Autosub 包了一层图形界面，（用的 PyQT）
 系统支持：支持 Windows 和 Linux, macOS 最多只到 Mojave 和之前。   
 （对 macOS 的支持程度这一段说明来自 [Release 页面](https://github.com/raryelcostasouza/pyTranscriber/releases/tag/v1.4-stable))
 
-
+<!--
 ## 对比
 在同时满足以下条件下，其他软件没有本软件好：
 
@@ -219,20 +219,11 @@ pyTranscriber 就是给 Autosub 包了一层图形界面，（用的 PyQT）
 2. 界面美观
 3. 可批量处理文件（字幕/音频/视频）
 4. 支持市面上几乎所有服务商，用户可以随意自由切换服务商使用
-
+-->
 
 # 与本产品相似（翻译字幕文件）的其他产品
-1. 字幕酱 https://www.zimujiang.com/
-2. VideoSrt Pro https://www.yuque.com/viggo-t7cdi/videosrt-pro/cpwtwl
-
-## LLM-Subtrans
-https://github.com/machinewrapped/llm-subtrans  
-
-Open Source project using LLMs to translate SRT subtitles
-
-## Subtitle Translator
-https://github.com/gnehs/subtitle-translator-electron   
-Translate subtitle using LLM  
-
-
-
+1. [「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译](https://github.com/buxuku/SmartSub)
+1. [字幕酱](https://www.zimujiang.com/)
+2. [VideoSrt Pro](https://www.yuque.com/viggo-t7cdi/videosrt-pro/cpwtwl)
+1. [LLM-Subtrans](https://github.com/machinewrapped/llm-subtrans )
+1. [Subtitle Translator](https://github.com/gnehs/subtitle-translator-electron)
